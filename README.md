@@ -1,7 +1,7 @@
 # Computer_Graphics
 
 ## Description 
-The repository contains a solution from a Numerical Methods course.  
+The repository contains a solution to laboratories and mini-projects from the Numerical Methods course.  
 
 ## List of projects:
 1. Conway Game of Life (https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
