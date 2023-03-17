@@ -1,4 +1,4 @@
-# Computer_Graphics
+# Numerical Methods
 
 ## Description 
 The repository contains a solution to laboratories and mini-projects from the Numerical Methods course.  
